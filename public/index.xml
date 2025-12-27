@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog Lập Trình</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Blog Lập Trình</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi-vn</language>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Giao thức TCP và UDP trong Java</title>
+        <link>http://localhost:1313/posts/java-4-tcp-udp-trong-java/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/java-4-tcp-udp-trong-java/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/java-4-tcp-udp-trong-java/j4.jpg" alt="Featured image of post Giao thức TCP và UDP trong Java" /&gt;&lt;h2 id=&#34;1-tcp&#34;&gt;1. TCP
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Đảm bảo dữ liệu&lt;/li&gt;
+&lt;li&gt;Kết nối ổn định&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-udp&#34;&gt;2. UDP
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Nhanh&lt;/li&gt;
+&lt;li&gt;Không đảm bảo dữ liệu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ứng-dụng&#34;&gt;3. Ứng dụng
+&lt;/h2&gt;&lt;p&gt;TCP dùng cho web, UDP dùng cho video, game.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Lựa chọn giao thức phù hợp giúp hệ thống hoạt động hiệu quả.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Giới thiệu Java và ứng dụng trong lập trình mạng</title>
+        <link>http://localhost:1313/posts/java-1-gioi-thieu-java-va-ung-dung-trong-lap-trinh-mang/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/java-1-gioi-thieu-java-va-ung-dung-trong-lap-trinh-mang/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/java-1-gioi-thieu-java-va-ung-dung-trong-lap-trinh-mang/j1.jpg" alt="Featured image of post Giới thiệu Java và ứng dụng trong lập trình mạng" /&gt;&lt;h2 id=&#34;1-java-là-gì&#34;&gt;1. Java là gì?
+&lt;/h2&gt;&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng, được phát triển bởi Sun Microsystems. Java nổi bật với khả năng chạy trên nhiều nền tảng nhờ JVM (Java Virtual Machine).&lt;/p&gt;
+&lt;h2 id=&#34;2-vì-sao-java-phù-hợp-lập-trình-mạng&#34;&gt;2. Vì sao Java phù hợp lập trình mạng?
+&lt;/h2&gt;&lt;p&gt;Java cung cấp thư viện mạnh mẽ cho lập trình mạng như &lt;code&gt;java.net&lt;/code&gt;, hỗ trợ Socket, URL, TCP, UDP.&lt;/p&gt;
+&lt;h2 id=&#34;3-ứng-dụng-thực-tế&#34;&gt;3. Ứng dụng thực tế
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Web Server&lt;/li&gt;
+&lt;li&gt;Ứng dụng Client – Server&lt;/li&gt;
+&lt;li&gt;Hệ thống phân tán&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Java là lựa chọn phổ biến trong các hệ thống mạng nhờ tính ổn định và bảo mật cao.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Giới thiệu JavaScript và vai trò trong Web</title>
+        <link>http://localhost:1313/posts/javascript-6-javascript-co-ban/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-6-javascript-co-ban/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-6-javascript-co-ban/j6.jpg" alt="Featured image of post Giới thiệu JavaScript và vai trò trong Web" /&gt;&lt;h2 id=&#34;1-javascript-là-gì&#34;&gt;1. JavaScript là gì?
+&lt;/h2&gt;&lt;p&gt;JavaScript là ngôn ngữ lập trình chạy trên trình duyệt.&lt;/p&gt;
+&lt;h2 id=&#34;2-vai-trò&#34;&gt;2. Vai trò
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Tạo website động&lt;/li&gt;
+&lt;li&gt;Xử lý sự kiện người dùng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-so-sánh-java--javascript&#34;&gt;3. So sánh Java &amp;amp; JavaScript
+&lt;/h2&gt;&lt;p&gt;Hai ngôn ngữ hoàn toàn khác nhau.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;JavaScript là nền tảng của lập trình web hiện đại.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gọi API bằng Fetch trong JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-9-fetch-api/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-9-fetch-api/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-9-fetch-api/j9.jpg" alt="Featured image of post Gọi API bằng Fetch trong JavaScript" /&gt;&lt;h2 id=&#34;1-api-là-gì&#34;&gt;1. API là gì?
+&lt;/h2&gt;&lt;p&gt;API cho phép các hệ thống giao tiếp với nhau.&lt;/p&gt;
+&lt;h2 id=&#34;2-fetch-api&#34;&gt;2. Fetch API
+&lt;/h2&gt;&lt;p&gt;Fetch giúp lấy dữ liệu từ server dễ dàng.&lt;/p&gt;
+&lt;h2 id=&#34;3-ví-dụ&#34;&gt;3. Ví dụ
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fetch&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://api.example.com/data&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  .&lt;span style=&#34;color:#a6e22e&#34;&gt;then&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt; =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;json&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  .&lt;span style=&#34;color:#a6e22e&#34;&gt;then&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;data&lt;/span&gt; =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;data&lt;/span&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Lập trình hướng đối tượng trong Java</title>
+        <link>http://localhost:1313/posts/java-2-lap-trinh-huong-doi-tuong-trong-java/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/java-2-lap-trinh-huong-doi-tuong-trong-java/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/java-2-lap-trinh-huong-doi-tuong-trong-java/j2.jpg" alt="Featured image of post Lập trình hướng đối tượng trong Java" /&gt;&lt;h2 id=&#34;1-khái-niệm-oop&#34;&gt;1. Khái niệm OOP
+&lt;/h2&gt;&lt;p&gt;Lập trình hướng đối tượng (OOP) giúp xây dựng chương trình dễ bảo trì và mở rộng.&lt;/p&gt;
+&lt;h2 id=&#34;2-các-đặc-điểm-chính&#34;&gt;2. Các đặc điểm chính
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Encapsulation (Đóng gói)&lt;/li&gt;
+&lt;li&gt;Inheritance (Kế thừa)&lt;/li&gt;
+&lt;li&gt;Polymorphism (Đa hình)&lt;/li&gt;
+&lt;li&gt;Abstraction (Trừu tượng)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ví-dụ&#34;&gt;3. Ví dụ
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Student&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String name;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; age;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Thao tác DOM bằng JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-7-dom/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-7-dom/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-7-dom/j7.jpg" alt="Featured image of post Thao tác DOM bằng JavaScript" /&gt;&lt;h2 id=&#34;1-dom-là-gì&#34;&gt;1. DOM là gì?
+&lt;/h2&gt;&lt;p&gt;DOM là mô hình biểu diễn cấu trúc HTML.&lt;/p&gt;
+&lt;h2 id=&#34;2-thao-tác-dom&#34;&gt;2. Thao tác DOM
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;getElementById&lt;/li&gt;
+&lt;li&gt;querySelector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ví-dụ&#34;&gt;3. Ví dụ
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;innerText&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Xây dựng ứng dụng Client – Server bằng Java Socket</title>
+        <link>http://localhost:1313/posts/java-3-java-socket-client-server/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/java-3-java-socket-client-server/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/java-3-java-socket-client-server/j3.jpg" alt="Featured image of post Xây dựng ứng dụng Client – Server bằng Java Socket" /&gt;&lt;h2 id=&#34;1-socket-là-gì&#34;&gt;1. Socket là gì?
+&lt;/h2&gt;&lt;p&gt;Socket cho phép các chương trình giao tiếp qua mạng.&lt;/p&gt;
+&lt;h2 id=&#34;2-mô-hình-client--server&#34;&gt;2. Mô hình Client – Server
+&lt;/h2&gt;&lt;p&gt;Server lắng nghe kết nối, Client gửi yêu cầu.&lt;/p&gt;
+&lt;h2 id=&#34;3-ứng-dụng&#34;&gt;3. Ứng dụng
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Chat&lt;/li&gt;
+&lt;li&gt;Truyền file&lt;/li&gt;
+&lt;li&gt;Game online&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Java Socket là nền tảng cho nhiều ứng dụng mạng.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Xử lý đa luồng trong Java</title>
+        <link>http://localhost:1313/posts/java-5-da-luong-trong-java/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/java-5-da-luong-trong-java/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/java-5-da-luong-trong-java/j5.jpg" alt="Featured image of post Xử lý đa luồng trong Java" /&gt;&lt;h2 id=&#34;1-thread-là-gì&#34;&gt;1. Thread là gì?
+&lt;/h2&gt;&lt;p&gt;Thread giúp chương trình xử lý nhiều công việc cùng lúc.&lt;/p&gt;
+&lt;h2 id=&#34;2-cách-tạo-thread&#34;&gt;2. Cách tạo Thread
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kế thừa Thread&lt;/li&gt;
+&lt;li&gt;Implement Runnable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ứng-dụng&#34;&gt;3. Ứng dụng
+&lt;/h2&gt;&lt;p&gt;Server xử lý nhiều client đồng thời.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Đa luồng giúp tối ưu hiệu suất ứng dụng Java.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Xử lý sự kiện trong JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-8-event/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-8-event/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-8-event/j8.jpg" alt="Featured image of post Xử lý sự kiện trong JavaScript" /&gt;&lt;h2 id=&#34;1-event-là-gì&#34;&gt;1. Event là gì?
+&lt;/h2&gt;&lt;p&gt;Event là hành động của người dùng như click, nhập liệu.&lt;/p&gt;
+&lt;h2 id=&#34;2-các-event-phổ-biến&#34;&gt;2. Các event phổ biến
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;onclick&lt;/li&gt;
+&lt;li&gt;onchange&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ứng-dụng&#34;&gt;3. Ứng dụng
+&lt;/h2&gt;&lt;p&gt;Form đăng nhập, nút bấm.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Event giúp website trở nên tương tác hơn.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Giới thiệu</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;figure class=&#34;about-avatar&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/avt.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;about&#34;&gt;ABOUT
+&lt;/h2&gt;&lt;p&gt;Tôi là &lt;strong&gt;Lưu Tuấn Kiệt&lt;/strong&gt;, sinh viên năm cuối ngành Công nghệ Thông tin, có định hướng phát triển trong lĩnh vực lập trình web.&lt;/p&gt;
+&lt;p&gt;Hiện tại, tôi đang theo học tại Trường Đại học Công Nghệ Thành Phố Hồ Chí Minh. Trong quá trình học tập, tôi luôn cố gắng trau dồi kiến thức chuyên môn và rèn luyện kỹ năng thực hành thông qua các đồ án và dự án thực tế.&lt;/p&gt;
+&lt;p&gt;Tôi đã thực hiện một số dự án như website quản lý thư viện, hệ thống đặt vé và các ứng dụng web sử dụng PHP, MySQL, Docker.&lt;/p&gt;
+&lt;p&gt;Bên cạnh kiến thức kỹ thuật, tôi luôn đề cao tinh thần trách nhiệm, khả năng làm việc nhóm và tư duy giải quyết vấn đề. Tôi tin rằng thái độ học hỏi và sự kiên trì là yếu tố quan trọng để phát triển bền vững.&lt;/p&gt;
+&lt;p&gt;Ngoài thời gian học tập, tôi yêu thích đọc sách công nghệ, nghe nhạc và tìm hiểu các xu hướng mới trong lĩnh vực lập trình.&lt;/p&gt;
+&lt;p&gt;Hiện tại, tôi đang tìm kiếm cơ hội thực tập hoặc làm việc trong môi trường năng động để học hỏi, phát triển bản thân và đóng góp giá trị cho tổ chức.&lt;/p&gt;
+&lt;p&gt;👉 Vui lòng &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact&#34; &gt;Liên hệ&lt;/a&gt;&lt;/strong&gt; để biết thêm thông tin.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Liên hệ</title>
+        <link>http://localhost:1313/contact/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/contact/</guid>
+        <description>&lt;div class=&#34;contact-wrapper&#34;&gt;
+&lt;div class=&#34;contact-left&#34;&gt;
+&lt;h3 id=&#34;tuấn-kiệt&#34;&gt;TUẤN KIỆT
+&lt;/h3&gt;&lt;p&gt;📧 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;mailto:luutuankiet794@gmail.com&#34; &gt;luutuankiet794@gmail.com&lt;/a&gt;&lt;br&gt;
+📞 &lt;strong&gt;Phone:&lt;/strong&gt; +84 384868794&lt;/p&gt;
+&lt;div class=&#34;social&#34;&gt;
+&lt;a href=&#34;#&#34;&gt;LinkedIn&lt;/a&gt; ·
+&lt;a href=&#34;#&#34;&gt;Instagram&lt;/a&gt; ·
+&lt;a href=&#34;#&#34;&gt;Facebook&lt;/a&gt; ·
+&lt;a href=&#34;#&#34;&gt;Twitter&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;contact-right&#34;&gt;
+&lt;form&gt;
+  &lt;input type=&#34;text&#34; placeholder=&#34;Name *&#34; required&gt;
+  &lt;input type=&#34;email&#34; placeholder=&#34;Email *&#34; required&gt;
+  &lt;input type=&#34;text&#34; placeholder=&#34;Subject&#34;&gt;
+  &lt;textarea placeholder=&#34;Message&#34;&gt;&lt;/textarea&gt;
+  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

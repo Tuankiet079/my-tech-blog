@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>JavaScript on Blog Lập Trình</title>
+        <link>http://localhost:1313/categories/javascript/</link>
+        <description>Recent content in JavaScript on Blog Lập Trình</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi-vn</language>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/javascript/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Giới thiệu JavaScript và vai trò trong Web</title>
+        <link>http://localhost:1313/posts/javascript-6-javascript-co-ban/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-6-javascript-co-ban/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-6-javascript-co-ban/j6.jpg" alt="Featured image of post Giới thiệu JavaScript và vai trò trong Web" /&gt;&lt;h2 id=&#34;1-javascript-là-gì&#34;&gt;1. JavaScript là gì?
+&lt;/h2&gt;&lt;p&gt;JavaScript là ngôn ngữ lập trình chạy trên trình duyệt.&lt;/p&gt;
+&lt;h2 id=&#34;2-vai-trò&#34;&gt;2. Vai trò
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Tạo website động&lt;/li&gt;
+&lt;li&gt;Xử lý sự kiện người dùng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-so-sánh-java--javascript&#34;&gt;3. So sánh Java &amp;amp; JavaScript
+&lt;/h2&gt;&lt;p&gt;Hai ngôn ngữ hoàn toàn khác nhau.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;JavaScript là nền tảng của lập trình web hiện đại.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gọi API bằng Fetch trong JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-9-fetch-api/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-9-fetch-api/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-9-fetch-api/j9.jpg" alt="Featured image of post Gọi API bằng Fetch trong JavaScript" /&gt;&lt;h2 id=&#34;1-api-là-gì&#34;&gt;1. API là gì?
+&lt;/h2&gt;&lt;p&gt;API cho phép các hệ thống giao tiếp với nhau.&lt;/p&gt;
+&lt;h2 id=&#34;2-fetch-api&#34;&gt;2. Fetch API
+&lt;/h2&gt;&lt;p&gt;Fetch giúp lấy dữ liệu từ server dễ dàng.&lt;/p&gt;
+&lt;h2 id=&#34;3-ví-dụ&#34;&gt;3. Ví dụ
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fetch&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://api.example.com/data&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  .&lt;span style=&#34;color:#a6e22e&#34;&gt;then&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt; =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;json&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  .&lt;span style=&#34;color:#a6e22e&#34;&gt;then&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;data&lt;/span&gt; =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;data&lt;/span&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Thao tác DOM bằng JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-7-dom/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-7-dom/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-7-dom/j7.jpg" alt="Featured image of post Thao tác DOM bằng JavaScript" /&gt;&lt;h2 id=&#34;1-dom-là-gì&#34;&gt;1. DOM là gì?
+&lt;/h2&gt;&lt;p&gt;DOM là mô hình biểu diễn cấu trúc HTML.&lt;/p&gt;
+&lt;h2 id=&#34;2-thao-tác-dom&#34;&gt;2. Thao tác DOM
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;getElementById&lt;/li&gt;
+&lt;li&gt;querySelector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ví-dụ&#34;&gt;3. Ví dụ
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;innerText&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Xử lý sự kiện trong JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-8-event/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-8-event/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-8-event/j8.jpg" alt="Featured image of post Xử lý sự kiện trong JavaScript" /&gt;&lt;h2 id=&#34;1-event-là-gì&#34;&gt;1. Event là gì?
+&lt;/h2&gt;&lt;p&gt;Event là hành động của người dùng như click, nhập liệu.&lt;/p&gt;
+&lt;h2 id=&#34;2-các-event-phổ-biến&#34;&gt;2. Các event phổ biến
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;onclick&lt;/li&gt;
+&lt;li&gt;onchange&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ứng-dụng&#34;&gt;3. Ứng dụng
+&lt;/h2&gt;&lt;p&gt;Form đăng nhập, nút bấm.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Event giúp website trở nên tương tác hơn.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

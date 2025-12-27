@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>API on Blog Lập Trình</title>
+        <link>http://localhost:1313/tags/api/</link>
+        <description>Recent content in API on Blog Lập Trình</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi-vn</language>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gọi API bằng Fetch trong JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-9-fetch-api/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-9-fetch-api/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-9-fetch-api/j9.jpg" alt="Featured image of post Gọi API bằng Fetch trong JavaScript" /&gt;&lt;h2 id=&#34;1-api-là-gì&#34;&gt;1. API là gì?
+&lt;/h2&gt;&lt;p&gt;API cho phép các hệ thống giao tiếp với nhau.&lt;/p&gt;
+&lt;h2 id=&#34;2-fetch-api&#34;&gt;2. Fetch API
+&lt;/h2&gt;&lt;p&gt;Fetch giúp lấy dữ liệu từ server dễ dàng.&lt;/p&gt;
+&lt;h2 id=&#34;3-ví-dụ&#34;&gt;3. Ví dụ
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fetch&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://api.example.com/data&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  .&lt;span style=&#34;color:#a6e22e&#34;&gt;then&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt; =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;res&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;json&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  .&lt;span style=&#34;color:#a6e22e&#34;&gt;then&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;data&lt;/span&gt; =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;data&lt;/span&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

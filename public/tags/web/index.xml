@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Web on Blog Lập Trình</title>
+        <link>http://localhost:1313/tags/web/</link>
+        <description>Recent content in Web on Blog Lập Trình</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi-vn</language>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Giới thiệu JavaScript và vai trò trong Web</title>
+        <link>http://localhost:1313/posts/javascript-6-javascript-co-ban/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-6-javascript-co-ban/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-6-javascript-co-ban/j6.jpg" alt="Featured image of post Giới thiệu JavaScript và vai trò trong Web" /&gt;&lt;h2 id=&#34;1-javascript-là-gì&#34;&gt;1. JavaScript là gì?
+&lt;/h2&gt;&lt;p&gt;JavaScript là ngôn ngữ lập trình chạy trên trình duyệt.&lt;/p&gt;
+&lt;h2 id=&#34;2-vai-trò&#34;&gt;2. Vai trò
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Tạo website động&lt;/li&gt;
+&lt;li&gt;Xử lý sự kiện người dùng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-so-sánh-java--javascript&#34;&gt;3. So sánh Java &amp;amp; JavaScript
+&lt;/h2&gt;&lt;p&gt;Hai ngôn ngữ hoàn toàn khác nhau.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;JavaScript là nền tảng của lập trình web hiện đại.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

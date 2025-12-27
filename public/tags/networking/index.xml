@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Networking on Blog Lập Trình</title>
+        <link>http://localhost:1313/tags/networking/</link>
+        <description>Recent content in Networking on Blog Lập Trình</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi-vn</language>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Giới thiệu Java và ứng dụng trong lập trình mạng</title>
+        <link>http://localhost:1313/posts/java-1-gioi-thieu-java-va-ung-dung-trong-lap-trinh-mang/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/java-1-gioi-thieu-java-va-ung-dung-trong-lap-trinh-mang/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/java-1-gioi-thieu-java-va-ung-dung-trong-lap-trinh-mang/j1.jpg" alt="Featured image of post Giới thiệu Java và ứng dụng trong lập trình mạng" /&gt;&lt;h2 id=&#34;1-java-là-gì&#34;&gt;1. Java là gì?
+&lt;/h2&gt;&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng, được phát triển bởi Sun Microsystems. Java nổi bật với khả năng chạy trên nhiều nền tảng nhờ JVM (Java Virtual Machine).&lt;/p&gt;
+&lt;h2 id=&#34;2-vì-sao-java-phù-hợp-lập-trình-mạng&#34;&gt;2. Vì sao Java phù hợp lập trình mạng?
+&lt;/h2&gt;&lt;p&gt;Java cung cấp thư viện mạnh mẽ cho lập trình mạng như &lt;code&gt;java.net&lt;/code&gt;, hỗ trợ Socket, URL, TCP, UDP.&lt;/p&gt;
+&lt;h2 id=&#34;3-ứng-dụng-thực-tế&#34;&gt;3. Ứng dụng thực tế
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Web Server&lt;/li&gt;
+&lt;li&gt;Ứng dụng Client – Server&lt;/li&gt;
+&lt;li&gt;Hệ thống phân tán&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Java là lựa chọn phổ biến trong các hệ thống mạng nhờ tính ổn định và bảo mật cao.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

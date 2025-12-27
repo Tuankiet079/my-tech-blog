@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Thread on Blog Lập Trình</title>
+        <link>http://localhost:1313/tags/thread/</link>
+        <description>Recent content in Thread on Blog Lập Trình</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi-vn</language>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/thread/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Xử lý đa luồng trong Java</title>
+        <link>http://localhost:1313/posts/java-5-da-luong-trong-java/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/java-5-da-luong-trong-java/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/java-5-da-luong-trong-java/j5.jpg" alt="Featured image of post Xử lý đa luồng trong Java" /&gt;&lt;h2 id=&#34;1-thread-là-gì&#34;&gt;1. Thread là gì?
+&lt;/h2&gt;&lt;p&gt;Thread giúp chương trình xử lý nhiều công việc cùng lúc.&lt;/p&gt;
+&lt;h2 id=&#34;2-cách-tạo-thread&#34;&gt;2. Cách tạo Thread
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Kế thừa Thread&lt;/li&gt;
+&lt;li&gt;Implement Runnable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ứng-dụng&#34;&gt;3. Ứng dụng
+&lt;/h2&gt;&lt;p&gt;Server xử lý nhiều client đồng thời.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Đa luồng giúp tối ưu hiệu suất ứng dụng Java.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Event on Blog Lập Trình</title>
+        <link>http://localhost:1313/tags/event/</link>
+        <description>Recent content in Event on Blog Lập Trình</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi-vn</language>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/event/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Xử lý sự kiện trong JavaScript</title>
+        <link>http://localhost:1313/posts/javascript-8-event/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/javascript-8-event/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/javascript-8-event/j8.jpg" alt="Featured image of post Xử lý sự kiện trong JavaScript" /&gt;&lt;h2 id=&#34;1-event-là-gì&#34;&gt;1. Event là gì?
+&lt;/h2&gt;&lt;p&gt;Event là hành động của người dùng như click, nhập liệu.&lt;/p&gt;
+&lt;h2 id=&#34;2-các-event-phổ-biến&#34;&gt;2. Các event phổ biến
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;onclick&lt;/li&gt;
+&lt;li&gt;onchange&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ứng-dụng&#34;&gt;3. Ứng dụng
+&lt;/h2&gt;&lt;p&gt;Form đăng nhập, nút bấm.&lt;/p&gt;
+&lt;h2 id=&#34;4-kết-luận&#34;&gt;4. Kết luận
+&lt;/h2&gt;&lt;p&gt;Event giúp website trở nên tương tác hơn.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

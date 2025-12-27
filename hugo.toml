@@ -1,4 +1,4 @@
-baseURL = "https://Tuankiet079.github.io/my-tech-blog/"
+baseURL = "http://localhost:1313"
 languageCode = "vi-vn"
 title = "Blog Lập Trình"
 theme = "stack"
