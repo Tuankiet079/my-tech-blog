@@ -9,23 +9,19 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout code đầy đủ
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2️⃣ Setup Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.111.3'  # hoặc version bạn dùng
+          hugo-version: '0.111.3'
 
-      # 3️⃣ Build site
       - name: Build Hugo site
         run: hugo --minify
 
-      # 4️⃣ Upload artifact cho GitHub Pages
-      - name: Upload Pages artifact
+      - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
